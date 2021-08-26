@@ -1,0 +1,2 @@
+a="pranju"
+print("a")
